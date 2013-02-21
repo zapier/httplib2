@@ -3429,7 +3429,7 @@ PBS1xp81HlDQwY9qcEQCYsuuHWhBp6pX6FOqB9IG9tUUBguRA3UsbHK1YZWaDYu5Def131TN3ubY
 WyH8EZE0vkHve52Xdf+XlcCWWC/qu0bXu+TZLg==
 -----END CERTIFICATE-----
 
-AC Ra+°z Certic+Ìmara S.A.
+AC Ra+¡z Certic+ímara S.A.
 ==========================
 
 -----BEGIN CERTIFICATE-----
